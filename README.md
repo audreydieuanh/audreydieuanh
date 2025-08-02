@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello! I'm Dieu Anh
 
-<!--
-**audreydieuanh/audreydieuanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+I'm a rising senior at Grinnell College majoring in Computer Science with a concentration in Statistics, currently interning at [Amazon](https://www.aboutamazon.com/). With experience in full-stack development, mobile development, game development, and machine learning, I’m passionate about using technology to build impactful software solutions 🔎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+- 📧 [Email](trinhdieu@grinnell.edu)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/audreydieuanh/)
+
+## 🛠 Tech Stack
+### 💻 Languages
+Java, C, C++, C#, Python, R, SQL, Swift, Kotlin, JavaScript, TypeScript, PHP, HTML/CSS
+
+### 📚 Frameworks & Libraries
+React, React Native, Node.js, Express, .NET, TailwindCSS
+
+### 🗃️ Databases
+MongoDB, PostgreSQL, MySQL
+
+### 🔧 Tools & Platforms
+RESTful APIs, Docker, AWS, Git, Adobe Dreamweaver
+
+## 🌟 Featured Projects
+
+### 🗺️ Touriscope  
+**Tech Stack**: HTML/CSS, JavaScript, React, Express, Node.js, PostgreSQL  
+A PERN stack web application showcasing 50+ tourist destinations with features for community reviews.
+
+
+### 🥗 PantryToPlate  
+**Tech Stack**: SwiftUI  
+An iOS app for fridge inventory management
